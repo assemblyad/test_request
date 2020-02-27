@@ -1,4 +1,4 @@
-# test_request
+
 Explanation for used abbreviations can be found in the end of this file.
 
 1.	Next assumptions made: 
